@@ -1,48 +1,34 @@
 <?php
 
-// Minimal versi PHP
-$minPHPVersion = '7.2';
-if (version_compare(PHP_VERSION, $minPHPVersion, '<')) {
-    die("PHP version must be {$minPHPVersion} or higher. Current: " . PHP_VERSION);
-}
-unset($minPHPVersion);
+// -----------------------------------------------
+// CodeIgniter 4 Standard Public Index (FIXED)
+// -----------------------------------------------
 
-// FCPATH = folder public
+// Path ke folder public
 define('FCPATH', __DIR__ . DIRECTORY_SEPARATOR);
 
-// Root project CI4 (folder spp1) 
-$rootPath = realpath(__DIR__ . '/..');
+// Path ke root project (1 folder di atas public/)
+define('ROOTPATH', realpath(__DIR__ . '/../') . DIRECTORY_SEPARATOR);
 
-if (!$rootPath) {
-    die("Root project CI4 tidak ditemukan!");
-}
+// Load konfigurasi path
+require ROOTPATH . 'app/Config/Paths.php';
 
-// Composer Autoload
-$autoload = $rootPath . '/vendor/autoload.php';
-if (!is_file($autoload)) {
-    die("Composer autoload tidak ditemukan! Path: " . $autoload);
-}
-require $autoload;
-
-// Load Paths.php
-$pathsFile = $rootPath . '/app/Config/Paths.php';
-if (!is_file($pathsFile)) {
-    die("Paths.php tidak ditemukan! Path: " . $pathsFile);
-}
-require $pathsFile;
-
-// Buat objek paths
+// Buat instance path
 $paths = new Config\Paths();
 
-// OVERRIDE lokasi SYSTEM folder → ambil dari vendor
-$paths->systemDirectory = $rootPath . '/vendor/codeigniter4/framework/system';
+// Autoloader composer
+require ROOTPATH . 'vendor/autoload.php';
 
-// Bootstrap file
-$bootstrap = $paths->systemDirectory . '/bootstrap.php';
+// Path ke bootstrap CI4
+$bootstrap = ROOTPATH . $paths->systemDirectory . DIRECTORY_SEPARATOR . 'bootstrap.php';
+
+// Cek bootstrap
 if (!is_file($bootstrap)) {
-    die("Bootstrap file tidak ditemukan! Path: " . $bootstrap);
+    die('Bootstrap file not found at: ' . $bootstrap);
 }
 
-// Jalankan aplikasi
+// Load CI4
 $app = require $bootstrap;
+
+// Jalankan aplikasi
 $app->run();
