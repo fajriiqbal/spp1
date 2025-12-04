@@ -10,7 +10,7 @@ unset($minPHPVersion);
 // FCPATH = folder public
 define('FCPATH', __DIR__ . DIRECTORY_SEPARATOR);
 
-// Root project CI4 (folder spp1)
+// Root project CI4 (folder spp1) 
 $rootPath = realpath(__DIR__ . '/..');
 
 if (!$rootPath) {
