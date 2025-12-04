@@ -1,0 +1,516 @@
+[04-Dec-2025 12:30:39 UTC] PHP Warning:  require(/home/maschode/public_html/public/../app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:30:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/public_html/public/../app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:30:40 UTC] PHP Warning:  require(/home/maschode/public_html/public/../app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:30:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/public_html/public/../app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:30:41 UTC] PHP Warning:  require(/home/maschode/public_html/public/../app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:30:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/public_html/public/../app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:30:41 UTC] PHP Warning:  require(/home/maschode/public_html/public/../app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:30:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/public_html/public/../app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:30:41 UTC] PHP Warning:  require(/home/maschode/public_html/public/../app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:30:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/public_html/public/../app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:30:41 UTC] PHP Warning:  require(/home/maschode/public_html/public/../app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:30:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/public_html/public/../app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:30:42 UTC] PHP Warning:  require(/home/maschode/public_html/public/../app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:30:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/public_html/public/../app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:30:42 UTC] PHP Warning:  require(/home/maschode/public_html/public/../app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:30:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/public_html/public/../app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:30:42 UTC] PHP Warning:  require(/home/maschode/public_html/public/../app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:30:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/public_html/public/../app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:30:42 UTC] PHP Warning:  require(/home/maschode/public_html/public/../app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:30:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/public_html/public/../app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:31:10 UTC] PHP Warning:  require(/home/maschode/public_html/public/../app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:31:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/public_html/public/../app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:31:12 UTC] PHP Warning:  require(/home/maschode/public_html/public/../app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:31:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/public_html/public/../app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:35:21 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:35:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:35:22 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:35:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:35:23 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:35:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:35:23 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:35:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:35:23 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:35:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:35:39 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:35:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:35:41 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:35:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:35:41 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:35:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:37:14 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:15 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:16 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:16 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:16 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:19 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:47 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:48 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:48 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:48 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:51 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:54 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:54 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:54 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:55 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:55 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:55 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:55 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:55 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:55 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:56 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:56 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:56 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:56 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:57 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:58 UTC] PHP Warning:  require(/app/Config/Paths.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:37:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 22
+[04-Dec-2025 12:40:26 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:40:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/spp1/system/bootstrap.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:40:27 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:40:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/spp1/system/bootstrap.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:40:28 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:40:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/spp1/system/bootstrap.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:40:29 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:40:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/spp1/system/bootstrap.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:40:29 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:40:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/spp1/system/bootstrap.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:43:25 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:43:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/spp1/system/bootstrap.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:43:26 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:43:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/spp1/system/bootstrap.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:43:26 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:43:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/spp1/system/bootstrap.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:43:26 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:43:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/spp1/system/bootstrap.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:43:27 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:43:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/spp1/system/bootstrap.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:43:27 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:43:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/spp1/system/bootstrap.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:43:27 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:43:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/spp1/system/bootstrap.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:43:27 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:43:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/spp1/system/bootstrap.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:52:54 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): Failed to open stream: No such file or directory in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 12:52:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/maschode/spp1/system/bootstrap.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maschode/public_html/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/maschode/public_html/public/index.php on line 28
+[04-Dec-2025 13:01:44 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:44 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:44 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/spp1/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:46 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:46 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:46 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/spp1/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:46 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:46 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:46 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/spp1/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:46 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:46 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:46 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/spp1/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:47 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:47 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:47 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/spp1/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:47 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:47 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:47 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/spp1/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:47 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:47 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:47 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/spp1/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:48 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:48 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:48 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/spp1/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:48 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:48 UTC] PHP Warning:  require(/home/maschode/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:01:48 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/spp1/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/spp1/public/index.php on line 28
+[04-Dec-2025 13:04:56 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:56 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:56 UTC] PHP Fatal error:  require(): Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:57 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:57 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:57 UTC] PHP Fatal error:  require(): Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:57 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:57 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:57 UTC] PHP Fatal error:  require(): Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:57 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:57 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:57 UTC] PHP Fatal error:  require(): Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:58 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:58 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:58 UTC] PHP Fatal error:  require(): Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:58 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:58 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:58 UTC] PHP Fatal error:  require(): Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:58 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:58 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:58 UTC] PHP Fatal error:  require(): Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:58 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:58 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:58 UTC] PHP Fatal error:  require(): Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:58 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:58 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:58 UTC] PHP Fatal error:  require(): Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:59 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:59 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:59 UTC] PHP Fatal error:  require(): Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:59 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:59 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:04:59 UTC] PHP Fatal error:  require(): Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:05:00 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:05:00 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:05:00 UTC] PHP Fatal error:  require(): Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:05:45 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:05:45 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:05:45 UTC] PHP Fatal error:  require(): Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:05:46 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:05:46 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:05:46 UTC] PHP Fatal error:  require(): Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:05:46 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:05:46 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:05:46 UTC] PHP Fatal error:  require(): Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:05:47 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:05:47 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:05:47 UTC] PHP Fatal error:  require(): Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:05:49 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:05:49 UTC] PHP Warning:  require(/app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:05:49 UTC] PHP Fatal error:  require(): Failed opening required '/app/Config/Paths.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 18
+[04-Dec-2025 13:13:00 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:00 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:00 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:02 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:02 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:02 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:02 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:02 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:02 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:03 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:03 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:03 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:03 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:03 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:03 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:04 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:04 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:04 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:48 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:48 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:48 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:51 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:51 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:51 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:53 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:53 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:13:53 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:14:05 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:14:05 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:14:05 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:14:07 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:14:07 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:14:07 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:14:13 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:14:13 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:14:13 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:15:10 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:15:10 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:15:10 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:15:11 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:15:11 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:15:11 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:15:12 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:15:12 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:15:12 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:15:21 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:15:21 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:15:21 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:15:31 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:15:31 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:15:31 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:15:40 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:15:40 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:15:40 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:19:27 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/home/maschode/public_html/spp1/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:19:27 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/home/maschode/public_html/spp1/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:19:27 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/home/maschode/public_html/spp1/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:19:28 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/home/maschode/public_html/spp1/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:19:28 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/home/maschode/public_html/spp1/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:19:28 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/home/maschode/public_html/spp1/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:21:43 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/home/maschode/public_html/spp1/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:21:43 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/home/maschode/public_html/spp1/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:21:43 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/home/maschode/public_html/spp1/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:23:05 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:23:05 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:23:05 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:25:18 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:25:18 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:25:18 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:25:19 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:25:19 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:25:19 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:25:19 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:25:19 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:25:19 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:25:20 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:25:20 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:25:20 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:25:20 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:25:20 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:25:20 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:26:05 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:26:05 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:26:05 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:26:05 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:26:05 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:26:05 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:26:05 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:26:05 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:26:05 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:26:10 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:26:10 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:26:10 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:26:26 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:26:26 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:26:26 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:28:06 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:28:06 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:28:06 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 17
+[04-Dec-2025 13:28:43 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:28:43 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:28:43 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:28:43 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:28:43 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:28:43 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:28:43 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:28:43 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:28:43 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:29:02 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:29:02 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:29:02 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:30:50 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/../system/../bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:30:50 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/../system/../bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:30:50 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/../system/../bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:30:51 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/../system/../bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:30:51 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/public/../system/../bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:30:51 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/public/../system/../bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:32:08 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/home/maschode/public_html/spp1/app/Config/../../vendor/codeigniter4/framework/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 42
+[04-Dec-2025 13:32:08 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/home/maschode/public_html/spp1/app/Config/../../vendor/codeigniter4/framework/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 42
+[04-Dec-2025 13:32:08 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/home/maschode/public_html/spp1/app/Config/../../vendor/codeigniter4/framework/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 42
+[04-Dec-2025 13:32:09 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/home/maschode/public_html/spp1/app/Config/../../vendor/codeigniter4/framework/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 42
+[04-Dec-2025 13:32:09 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/home/maschode/public_html/spp1/app/Config/../../vendor/codeigniter4/framework/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 42
+[04-Dec-2025 13:32:09 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/home/maschode/public_html/spp1/app/Config/../../vendor/codeigniter4/framework/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 42
+[04-Dec-2025 13:32:09 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/home/maschode/public_html/spp1/app/Config/../../vendor/codeigniter4/framework/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 42
+[04-Dec-2025 13:32:09 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/home/maschode/public_html/spp1/app/Config/../../vendor/codeigniter4/framework/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 42
+[04-Dec-2025 13:32:09 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/home/maschode/public_html/spp1/app/Config/../../vendor/codeigniter4/framework/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 42
+[04-Dec-2025 13:32:09 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/home/maschode/public_html/spp1/app/Config/../../vendor/codeigniter4/framework/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 42
+[04-Dec-2025 13:32:09 UTC] PHP Warning:  require(/home/maschode/public_html/spp1/home/maschode/public_html/spp1/app/Config/../../vendor/codeigniter4/framework/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 42
+[04-Dec-2025 13:32:09 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1/home/maschode/public_html/spp1/app/Config/../../vendor/codeigniter4/framework/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 42
+[04-Dec-2025 13:33:14 UTC] PHP Warning:  require(/home/maschode/public_html/spp1app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 20
+[04-Dec-2025 13:33:14 UTC] PHP Warning:  require(/home/maschode/public_html/spp1app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 20
+[04-Dec-2025 13:33:14 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1app/Config/Paths.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 20
+[04-Dec-2025 13:33:15 UTC] PHP Warning:  require(/home/maschode/public_html/spp1app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 20
+[04-Dec-2025 13:33:15 UTC] PHP Warning:  require(/home/maschode/public_html/spp1app/Config/Paths.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 20
+[04-Dec-2025 13:33:15 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1app/Config/Paths.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 20
+[04-Dec-2025 13:33:52 UTC] PHP Warning:  require(/home/maschode/public_html/spp1//home/maschode/public_html/spp1/app/Config/../../vendor/codeigniter4/framework/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:33:52 UTC] PHP Warning:  require(/home/maschode/public_html/spp1//home/maschode/public_html/spp1/app/Config/../../vendor/codeigniter4/framework/system/bootstrap.php): failed to open stream: No such file or directory in /home/maschode/public_html/spp1/public/index.php on line 31
+[04-Dec-2025 13:33:52 UTC] PHP Fatal error:  require(): Failed opening required '/home/maschode/public_html/spp1//home/maschode/public_html/spp1/app/Config/../../vendor/codeigniter4/framework/system/bootstrap.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/maschode/public_html/spp1/public/index.php on line 31
